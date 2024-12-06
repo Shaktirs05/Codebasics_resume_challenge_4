@@ -14,8 +14,7 @@ MySQL is used to query requests from a database. Key concepts to learn and apply
 CTEs (Common Table Expressions),Subqueries,Date function,CASE Statement,Window functions, etc.
 Powerbi use to create visuals , DAX, Different Visuals Like Bar Chart , Pie Chart, etc.
 
-By using these tools, we can calculate Gross Sales and Contribution Percentage, as well as gain insights into customer purchasing behavior during promotions.
-This information will help optimize future promotional sales strategies.
+By using these tools, we can calculate Gross Sales,Contribution Percentage,Average_discount% etc, company get insights about there %change in Unique product over year, Channel with maximum Sales etc.
 
 For insights check "ATLIQ_HARDWARE_INSIGHTS_pdf"
 
