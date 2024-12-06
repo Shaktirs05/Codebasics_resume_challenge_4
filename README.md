@@ -17,6 +17,7 @@ MYSQL & Power BI
 MySQL is used to query requests from a database. Key concepts to learn and apply include:
 CTEs (Common Table Expressions),Subqueries,Date function,CASE Statement,Window functions, etc.
 Powerbi use to create visuals , DAX, Different Visuals Like Bar Chart , Pie Chart, etc.
+
 By using these tools, we can calculate Gross Sales and Contribution Percentage, as well as gain insights into customer purchasing behavior during promotions.
 This information will help optimize future promotional sales strategies.
 
