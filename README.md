@@ -4,7 +4,8 @@ PROBLEM :-
 AtliQ Hardware (imaginary company) - One of the leading computer hardware producers in India and well expanded in other countries too.However, the management noticed that they do not get enough insights to make quick and smart data-informed decisions. So they want to expand their data analytics team by adding  junior data analysts. Tony Sharma, their data analytics director wanted to hire someone who is good at both tech and soft skills. So to assess  candidates he decided to conduct a SQL challenge which will help him understand both the skills.The company seeks insights for 10 request.
 
 DATASET :-
-atliq_hardware_db
+
+atliq_hardware_db :-
 .dim_customer
 .dim_product
 .fact_gross_price
