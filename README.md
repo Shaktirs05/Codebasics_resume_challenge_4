@@ -5,16 +5,11 @@ AtliQ Hardware (imaginary company) - One of the leading computer hardware produ
 
 DATASET :-
 
-atliq_hardware_db :-
-.dim_customer
-.dim_product
-.fact_gross_price
-.fact_manufacturing_cost
-.fact_pre_invoice_deduction
-.fact_sales_monthly
+atliq_hardware_db :- dim_customer,dim_product,fact_gross_price,fact_manufacturing_cost,fact_pre_invoice_deduction,fact_sales_monthly
 
 TOOLS :-
 MYSQL & Power BI
+
 MySQL is used to query requests from a database. Key concepts to learn and apply include:
 CTEs (Common Table Expressions),Subqueries,Date function,CASE Statement,Window functions, etc.
 Powerbi use to create visuals , DAX, Different Visuals Like Bar Chart , Pie Chart, etc.
